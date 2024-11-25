@@ -1,0 +1,198 @@
+*{
+    padding: 0;
+    margin: 0;
+  box-sizing: border-box;
+}
+/* body{
+    /* background-color:rgb(59,71,100) ; */
+
+ 
+.container{
+   
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    width: auto;
+    height: 100vh;
+     background-color:rgb(59,71,100) ; 
+
+}
+.entete{
+    height: 5rem;
+    width: 100%;
+    background-color: rgb(35,44,67);
+    color: white;
+   
+   
+}
+form input{
+    height: 3rem;
+    width:5rem;
+  border-radius: 1rem;
+  border: 1%;
+  font-size: x-large;
+ font-weight: 100px;
+ margin: 0.3rem;
+ box-shadow: 70rem;
+
+ 
+
+  
+ 
+
+
+
+}
+.entrer{
+    margin-bottom: 10%;
+}
+
+.contenue{
+ background-color:  rgb(35,44,67);
+ 
+}
+
+.them{
+margin-left: 20rem;
+ 
+border-radius: 1rem;
+background-color:   rgb(35,44,67);
+}
+.numero {
+    margin-left: 20rem;
+    display: flex;
+  gap: 19%;
+    
+   
+
+}
+
+.theme1 span{
+    color: white;
+}
+.theme2 span{
+    color: black;
+}
+
+.theme1 #huey  {
+    accent-color:rgb(6,199,192);
+}
+/* #reset{
+    height: 3rem;
+    width: 10.9rem;
+    background-color:rgb(6,199,192) ;
+    color: white;
+} */
+.theme1 #cal{
+    height: 3rem;
+    width: 10.9rem;
+    background-color: rgb(185,81,9);
+    color: white;
+    
+
+}
+.theme1 #del{
+    background-color:rgb(57,122,131);
+    color: white;
+}
+
+.theme1 #reset {
+    background-color:rgb(57,122,131);
+    color: white;
+    height: 3rem;
+    width: 10.9rem;
+}
+
+
+
+
+.theme2 #reset {
+   
+    background-color: rgb(57,122,131);
+    color: white;
+}
+.theme2 #del{
+    background-color: rgb(57,122,131);
+    color: white
+
+}
+.theme2 #cal{
+    background-color: rgb(185,81,9);
+    color: white
+
+}
+.theme2 #contenue{
+    background-color: rgb(215,210,211);
+   
+}
+.theme2 #inpute{
+    background-color: rgb(231,230,227);
+    color: black
+   
+}
+.theme2 #calcul{
+    background-color: rgb(239,239,239);
+    border: none;
+    color: black;
+
+}
+.theme2 #entete{
+    background-color:rgb(239,239,239) ;
+    
+}
+.theme2 .them{
+    accent-color: aqua;
+ }
+ .theme1 .number{
+    margin-right: -40%;
+ }
+
+
+
+.theme3 #cal {
+    background-color:  rgb(57,122,131);
+    color: white;
+    
+}
+.theme3 #reset{
+    background-color: rgb(55,25,85);
+    color: white;
+}
+.theme3 #del{
+    background-color: rgb(55,25,85);
+    color: white;
+}
+.theme3 .input{
+    background-color:rgb(93,3,129) ;
+    color: rgb(237,195,145);
+}
+.theme3 .entete{
+    background-color : rgb(31,5,59) ;
+    color: rgb(237,195,145);
+}
+.theme3 .contenue{
+    background-color : rgb(31,5,59) ;
+    color: rgb(237,195,145);
+}
+.theme3 .them{
+   accent-color: aqua;
+}
+.theme3 span{
+    color:  rgb(237,195,145);;
+}
+.theme1 h1{
+    color: azure;
+}
+ .theme2{
+    background-color:white ;
+}
+.theme3{
+    background-color: rgb(21,2,40);
+}
+.theme2 h1{
+    color:black;
+}
+.theme3 h1{
+    color: rgb(237,195,145);
+}
